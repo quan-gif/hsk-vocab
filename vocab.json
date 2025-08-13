@@ -1,3 +1,4 @@
+console.log("js loaded")
 const vocabList = [
       // Bài 1: Xin chào
   { word: "你", pinyin: "", meaning: "", lesson: 1 },
